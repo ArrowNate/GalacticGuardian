@@ -1,0 +1,1662 @@
+﻿Log file open, 06/29/23 18:57:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GalacticGuardian
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.466632
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i9-12900K, GPU: AMD Radeon RX 7900 XTX
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=GeorgeIraq -epicuserid=ce1783bd970c43b2b29b550560514186 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: D:/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Engine.ini]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Engine.ini]
+[2023.06.29-22.57.37:887][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Engine.ini]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Engine.ini]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.06.29-22.57.37:887][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.06.29-22.57.37:888][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.06.29-22.57.37:888][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.06.29-22.57.37:888][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.06.29-22.57.37:888][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.06.29-22.57.37:888][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.06.29-22.57.37:888][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.06.29-22.57.37:888][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Engine.ini]
+[2023.06.29-22.57.37:888][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Engine.ini]
+[2023.06.29-22.57.37:907][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Scalability.ini]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Scalability.ini]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Scalability.ini]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Scalability.ini]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Scalability.ini]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Scalability.ini]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Scalability.ini]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Scalability.ini]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.06.29-22.57.37:907][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.06.29-22.57.37:907][  0]LogInit: Selected Device Profile: [Windows]
+[2023.06.29-22.57.37:907][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.06.29-22.57.37:907][  0]LogHAL: Display: Platform has ~ 64 GB [68464689152 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.06.29-22.57.37:908][  0]LogInit: Going up to parent DeviceProfile []
+[2023.06.29-22.57.37:908][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Scalability.ini]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Scalability.ini]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Scalability.ini]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Scalability.ini]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Scalability.ini]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Scalability.ini]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Scalability.ini]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Scalability.ini]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.06.29-22.57.37:908][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.06.29-22.57.37:912][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.06.29-22.57.37:912][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.06.29-22.57.37:912][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.06.29-22.57.37:912][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Engine.ini]
+[2023.06.29-22.57.37:912][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Config/Windows/Editor.ini]
+[2023.06.29-22.57.37:912][  0]LogInit: Computer: EXODIA
+[2023.06.29-22.57.37:912][  0]LogInit: User: GeorgeEdmon
+[2023.06.29-22.57.37:912][  0]LogInit: CPU Page size=4096, Cores=16
+[2023.06.29-22.57.37:912][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.06.29-22.57.37:912][  0]LogMemory: Memory total: Physical=63.8GB (64GB approx)
+[2023.06.29-22.57.37:912][  0]LogMemory: Platform Memory Stats for Windows
+[2023.06.29-22.57.37:912][  0]LogMemory: Process Physical Memory: 155.27 MB used, 155.27 MB peak
+[2023.06.29-22.57.37:912][  0]LogMemory: Process Virtual Memory: 144.35 MB used, 144.35 MB peak
+[2023.06.29-22.57.37:912][  0]LogMemory: Physical Memory: 22924.81 MB used,  42368.20 MB free, 65293.02 MB total
+[2023.06.29-22.57.37:912][  0]LogMemory: Virtual Memory: 134170680.00 MB used,  47048.71 MB free, 134217728.00 MB total
+[2023.06.29-22.57.37:914][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.06.29-22.57.38:073][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.06.29-22.57.38:074][  0]LogInit: Using OS detected language (en-US).
+[2023.06.29-22.57.38:074][  0]LogInit: Using OS detected locale (en-CA).
+[2023.06.29-22.57.38:076][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.06.29-22.57.38:247][  0]LogInit: Setting process to per monitor DPI aware
+[2023.06.29-22.57.38:260][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.06.29-22.57.38:315][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.06.29-22.57.38:315][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.06.29-22.57.40:303][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.06.29-22.57.40:309][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.06.29-22.57.40:309][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.06.29-22.57.40:309][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.06.29-22.57.40:309][  0]LogD3D11RHI: D3D11 adapters:
+[2023.06.29-22.57.40:390][  0]LogD3D11RHI:    0. 'AMD Radeon RX 7900 XTX' (Feature Level 11_0)
+[2023.06.29-22.57.40:390][  0]LogD3D11RHI:       24519/0/32646 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2023.06.29-22.57.40:392][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.06.29-22.57.40:392][  0]LogD3D11RHI:       0/0/32646 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.06.29-22.57.40:392][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.06.29-22.57.40:392][  0]LogD3D11RHI:     Description : AMD Radeon RX 7900 XTX
+[2023.06.29-22.57.40:392][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.06.29-22.57.40:392][  0]LogD3D11RHI:     DeviceId    : 744c
+[2023.06.29-22.57.40:392][  0]LogD3D11RHI:     SubSysId    : 52001462
+[2023.06.29-22.57.40:392][  0]LogD3D11RHI:     Revision    : 00c8
+[2023.06.29-22.57.40:392][  0]LogD3D11RHI:     DedicatedVideoMemory : 25710440448 bytes
+[2023.06.29-22.57.40:392][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.06.29-22.57.40:392][  0]LogD3D11RHI:     SharedSystemMemory : 34232344576 bytes
+[2023.06.29-22.57.40:392][  0]LogD3D11RHI:     AdapterLuid : 0 54672
+[2023.06.29-22.57.40:415][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.06.29-22.57.40:415][  0]LogD3D11RHI:     GPU DeviceId: 0x744c (for the marketing name, search the web for "GPU Device Id")
+[2023.06.29-22.57.40:415][  0]LogWindows: EnumDisplayDevices:
+[2023.06.29-22.57.40:415][  0]LogWindows:    0. 'AMD Radeon RX 7900 XTX' (P:1 D:1)
+[2023.06.29-22.57.40:416][  0]LogWindows:    1. 'AMD Radeon RX 7900 XTX' (P:0 D:1)
+[2023.06.29-22.57.40:416][  0]LogWindows:    2. 'AMD Radeon RX 7900 XTX' (P:0 D:0)
+[2023.06.29-22.57.40:416][  0]LogWindows:    3. 'AMD Radeon RX 7900 XTX' (P:0 D:0)
+[2023.06.29-22.57.40:416][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.06.29-22.57.40:416][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 7900 XTX
+[2023.06.29-22.57.40:416][  0]LogD3D11RHI:   Driver Version: AMD Software: Adrenalin Edition 23.5.2 (internal:31.0.14057.5006, unified:31.0.14057.5006)
+[2023.06.29-22.57.40:416][  0]LogD3D11RHI:      Driver Date: 5-23-2023
+[2023.06.29-22.57.40:416][  0]LogRHI: Texture pool is 16625 MB (70% of 23751 MB)
+[2023.06.29-22.57.40:444][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2023.06.29-22.57.40:444][  0]LogD3D11RHI:     Description : AMD Radeon RX 7900 XTX
+[2023.06.29-22.57.40:444][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.06.29-22.57.40:444][  0]LogD3D11RHI:     DeviceId    : 744c
+[2023.06.29-22.57.40:444][  0]LogD3D11RHI:     SubSysId    : 52001462
+[2023.06.29-22.57.40:444][  0]LogD3D11RHI:     Revision    : 00c8
+[2023.06.29-22.57.40:444][  0]LogD3D11RHI:     DedicatedVideoMemory : 25710440448 bytes
+[2023.06.29-22.57.40:444][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.06.29-22.57.40:444][  0]LogD3D11RHI:     SharedSystemMemory : 34232344576 bytes
+[2023.06.29-22.57.40:444][  0]LogD3D11RHI:     AdapterLuid : 0 54672
+[2023.06.29-22.57.40:492][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2023.06.29-22.57.40:492][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.06.29-22.57.40:492][  0]LogD3D11RHI: Async texture creation enabled
+[2023.06.29-22.57.40:492][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.06.29-22.57.40:503][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2023.06.29-22.57.41:071][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.06.29-22.57.41:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.06.29-22.57.41:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.06.29-22.57.41:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.06.29-22.57.41:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.06.29-22.57.41:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.06.29-22.57.41:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.06.29-22.57.41:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.06.29-22.57.41:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.06.29-22.57.41:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.06.29-22.57.41:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.06.29-22.57.41:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.06.29-22.57.41:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.06.29-22.57.41:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.06.29-22.57.41:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.06.29-22.57.41:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.06.29-22.57.41:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.06.29-22.57.41:263][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.06.29-22.57.41:278][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.06.29-22.57.41:295][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.06.29-22.57.41:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.06.29-22.57.41:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.06.29-22.57.41:366][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.06.29-22.57.41:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.06.29-22.57.41:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.06.29-22.57.41:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.06.29-22.57.41:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.06.29-22.57.41:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.06.29-22.57.41:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.06.29-22.57.41:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.06.29-22.57.41:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.06.29-22.57.41:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.06.29-22.57.41:525][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.06.29-22.57.41:590][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.06.29-22.57.41:805][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.06.29-22.57.42:050][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.06.29-22.57.42:051][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Intermediate/Shaders/WorkingDirectory/280792/).
+[2023.06.29-22.57.42:051][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/George Edmon/AppData/Local/Temp/UnrealShaderWorkingDir/8992FBD141333E3BA9F0369CC8CD34ED/'.
+[2023.06.29-22.57.42:051][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.06.29-22.57.42:051][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.06.29-22.57.42:051][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.06.29-22.57.44:540][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.06.29-22.57.44:590][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/George Edmon/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.06.29-22.57.44:590][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/George Edmon/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.06.29-22.57.44:590][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.06.29-22.57.44:590][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.06.29-22.57.44:590][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.29-22.57.44:590][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.06.29-22.57.44:610][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.06.29-22.57.44:610][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.29-22.57.44:610][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.06.29-22.57.44:651][  0]LogDerivedDataCache: Speed tests for C:/Users/George Edmon/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2023.06.29-22.57.44:651][  0]LogDerivedDataCache: Display: Performance to C:/Users/George Edmon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=24.45MBs, RandomWriteSpeed=311.49MBs. Assigned SpeedClass 'Local'
+[2023.06.29-22.57.44:652][  0]LogDerivedDataCache: Using Local data cache path C:/Users/George Edmon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.06.29-22.57.44:652][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.06.29-22.57.44:652][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.06.29-22.57.44:678][  0]LogSlate: Using FreeType 2.10.0
+[2023.06.29-22.57.44:688][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.06.29-22.57.44:888][  0]LogAssetRegistry: FAssetRegistry took 0.0017 seconds to start up
+[2023.06.29-22.57.45:028][  0]LogInit: Selected Device Profile: [Windows]
+[2023.06.29-22.57.45:028][  0]LogInit: Active device profile: [00000211CDECCF00][00000211CC39B980 49] Windows
+[2023.06.29-22.57.45:028][  0]LogInit: Profiles: [00000211CDECCF00][00000211CC39B980 49] Windows, [00000211CDE7EA00][00000211C898BB00 49] WindowsNoEditor, [00000211CDECDF00][00000211C898E100 49] WindowsServer, [00000211CDE7DC00][00000211C8992280 49] WindowsClient, [00000211CDECD000][00000211C8996400 49] IOS, [00000211CDE7D800][00000211C899A580 49] iPadAir, [00000211CDECF300][00000211C3D52700 49] iPadAir2, [00000211CDE05300][00000211C3D5E940 49] IPadPro, [00000211CDE05400][00000211C8986980 49] iPadAir3, [00000211CDE7CB00][00000211C3D62AC0 49] iPadAir4, [00000211CDE06100][00000211C3D6AC40 49] iPadMini2, [00000211CDE7FA00][00000211C3D6EDC0 49] iPadMini3, [00000211CDE06C00][00000211C3D72F40 49] iPadMini4, [00000211CDE7ED00][00000211C3D770C0 49] iPadMini5, [00000211CDE68E00][00000211C3D7F380 49] iPhone6, [00000211CDE68F00][00000211C3D7B3C0 49] iPodTouch6, [00000211CDECE800][00000211C3D87680 49] iPhone7, [00000211CDECE900][00000211C3D836C0 49] iPodTouch7, [00000211CDE04C00][00000211C3D8B840 49] iPhone5S, [00000211CDECD300][00000211C88439C0 49] iPhone6Plus, [00000211CDE06A00][00000211C884BB40 49] iPhone6S, [00000211CDECED00][00000211C884E140 49] iPhone6SPlus, [00000211CDE68100][00000211C88522C0 49] iPhone7Plus, [00000211CDE05D00][00000211C885E440 49] iPhoneSE, [00000211CDE68C00][00000211C88625C0 49] iPhone8, [00000211CDE04400][00000211C8866740 49] iPhone8Plus, [00000211CDE6AA00][00000211C88728C0 49] iPhoneX, [00000211CDE07C00][00000211C3D66A00 49] iPhoneXS, [00000211CDE6A900][00000211CDC48B40 49] iPhoneXSMax, [00000211CDE04B00][00000211CDC74C80 49] iPhoneXR, [00000211CDECF800][00000211CDC8CDC0 49] iPhone11, [00000211CDE07D00][00000211CDC94F40 49] iPhone11Pro, [00000211CDECDC00][00000211CDC990C0 49] iPhone11ProMax, [00000211CDE05100][00000211CDC9D240 49] iPhoneSE2, [00000211CDECD200][00000211CDCA13C0 49] iPhone12Mini, [00000211CDE07100][00000211CDCA5540 49] iPhone12, [00000211CDECC900][00000211CDCA96C0 49] iPhone12Pro, [00000211CDE04D00][00000211CDCAD840 49] iPhone12ProMax, [00000211CDECFC00][00000211CDCB59C0 49] iPadPro105, [00000211CDE07700][00000211CDCB9B40 49] iPadPro129, [00000211CDECF000][00000211CDCC0140 49] iPadPro97, [00000211CDE04F00][00000211CDCC82C0 49] iPadPro2_129, [00000211CDECCC00][00000211CDCE2440 49] iPad5, [00000211CDE07B00][00000211CDCE65C0 49] iPad6, [00000211CDECC400][00000211CC18A740 49] iPad7, [00000211CDE07E00][00000211CC18E8C0 49] iPad8, [00000211CDECDB00][00000211CC192A40 49] iPadPro11, [00000211CDE06400][00000211CDC90B80 49] iPadPro2_11, [00000211CDECC800][00000211CC196CC0 49] iPadPro3_129, [00000211CDE06800][00000211CC19AE00 49] iPadPro4_129, [00000211CDECEF00][00000211CC1F2F40 49] AppleTV, [00000211CDE05200][00000211CC1FB0C0 49] AppleTV4K, [00000211CDECD700][00000211CC1FF240 49] TVOS, [00000211CDE07600][00000211CC2073C0 49] Mac, [00000211CDECFA00][00000211CC20B540 49] MacClient, [00000211CDE06500][00000211CC20F6C0 49] MacNoEditor, [00000211CDECC500][00000211CC213840 49] MacServer, [00000211CDE06000][00000211CC2179C0 49] Linux, [00000211CDECFB00][00000211CC21BB40 49] LinuxAArch64, [00000211CDE04300][00000211CC21E140 49] LinuxNoEditor, [00000211CDECF700][00000211CC2222C0 49] LinuxAArch64NoEditor, [00000211CDE06600][00000211CC226440 49] LinuxClient, [00000211CDECE600][00000211CED765C0 49] LinuxAArch64Client, [00000211CDE05A00][00000211CED7A740 49] LinuxServer, [00000211CDECC200][00000211CED7E8C0 49] LinuxAArch64Server, [00000211CDE05600][00000211CED82A40 49] Android, [00000211CDECE100][00000211CED86BC0 49] Android_Low, [00000211CDE07800][00000211CED8AD40 49] Android_Mid, [00000211CDECC600][00000211CC1F6E80 49] Android_High, [00000211CDE06300][00000211CED8EFC0 49] Android_Default, [00000211CDECE300][00000211CED93100 49] Android_Adreno4xx, [00000211CDE07000][00000211CED9B280 49] Android_Adreno5xx_Low, [00000211CDECEA00][00000211CED9F400 49] Android_Adreno5xx, [00000211CDE04100][00000211CEDA3580 49] Android_Adreno6xx, [00000211CDECCB00][00000211CEDA7700 49] Android_Adreno6xx_Vulkan, [00000211CDE04A00][00000211CEDAB880 49] Android_Mali_T6xx, [00000211CDECC700][00000211CEDAFA00 49] Android_Mali_T7xx, [00000211CDE7E000][00000211CEDB3B80 49] Android_Mali_T8xx, [00000211CDE68300][00000211CEDB6180 49] Android_Mali_G71, [00000211CDE7C600][00000211CEDBA300 49] Android_Mali_G72, [00000211CDE69200][00000211CEDBE480 49] Android_Mali_G72_Vulkan, [00000211CDE7D400][00000211CEDC2600 49] Android_Mali_G76, [00000211CDE68700][00000211CEDC6780 49] Android_Mali_G76_Vulkan, [00000211CDE7D500][00000211CEDCA900 49] Android_Mali_G77, [00000211CDE6BB00][00000211CEDCEA80 49] Android_Mali_G77_Vulkan, [00000211CDE7E100][00000211CEDD2C00 49] Android_Mali_G78, [00000211CDE6B100][00000211CEDD6D80 49] Android_Mali_G78_Vulkan, [00000211CDE7FF00][00000211CEDDAF00 49] Android_Mali_G710, [00000211CDE6AC00][00000211CED97040 49] Android_Mali_G710_Vulkan, [00000211CDE7FC00][00000211CEDDF180 49] Android_Vulkan_SM5, [00000211CDE6B800][00000211CEDE32C0 49] Android_PowerVR_G6xxx, [00000211CDE7DF00][00000211CEDEB440 49] Android_PowerVR_GT7xxx, [00000211CDE69D00][00000211CEDEF5C0 49] Android_PowerVR_GE8xxx, [00000211CDE7F300][00000211CEDF3740 49] Android_PowerVR_GM9xxx, [00000211CDE68800][00000211CEDF78C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000211CDE7E200][00000211CEDFBA40 49] Android_TegraK1, [00000211CDE69000][00000211CEDFFBC0 49] Android_Unknown_Vulkan, [00000211CDE7E900][00000211CEE021C0 49] Lumin, [00000211CDE6BE00][00000211CEE06340 49] Lumin_Desktop, [00000211CDE7F100][00000211CEE0A4C0 49] HoloLens, 
+[2023.06.29-22.57.45:481][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.06.29-22.57.45:481][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.06.29-22.57.45:481][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.06.29-22.57.45:481][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.06.29-22.57.45:481][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.06.29-22.57.45:520][  0]LogNetVersion: GalacticGuardian 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1400465514)
+[2023.06.29-22.57.47:288][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.06.29-22.57.47:363][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.06.29-22.57.47:368][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.06.29-22.57.47:368][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.06.29-22.57.47:368][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.06.29-22.57.48:727][  0]LogPython: Using Python 3.7.7
+[2023.06.29-22.57.49:249][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 4B9568874BE9D730387277AD9B1366C5 | Instance: AF10F35A4F21C781318ED2AF22B90722 (EXODIA-280792).
+[2023.06.29-22.57.49:494][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.06.29-22.57.49:514][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.06.29-22.57.51:421][  0]SourceControl: Source control is disabled
+[2023.06.29-22.57.51:421][  0]SourceControl: Source control is disabled
+[2023.06.29-22.57.51:463][  0]SourceControl: Source control is disabled
+[2023.06.29-22.57.51:484][  0]SourceControl: Source control is disabled
+[2023.06.29-22.57.51:556][  0]SourceControl: Source control is disabled
+[2023.06.29-22.57.51:592][  0]LogOpenImageDenoise: OIDN starting up
+[2023.06.29-22.57.51:670][  0]LogUProjectInfo: Found projects:
+[2023.06.29-22.57.51:948][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.06.29-22.57.52:048][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.29-22.57.52:048][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.29-22.57.52:456][  0]LogCollectionManager: Loaded 0 collections in 0.001867 seconds
+[2023.06.29-22.57.52:478][  0]LogFileCache: Scanning file cache for directory 'D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Collections/' took 0.00s
+[2023.06.29-22.57.52:478][  0]LogFileCache: Scanning file cache for directory 'D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Developers/GeorgeEdmon/Collections/' took 0.00s
+[2023.06.29-22.57.52:479][  0]LogFileCache: Scanning file cache for directory 'D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Collections/' took 0.00s
+[2023.06.29-22.57.52:543][  0]LogOcInput: OculusInput pre-init called
+[2023.06.29-22.57.52:852][  0]LogEngine: Initializing Engine...
+[2023.06.29-22.57.52:921][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.06.29-22.57.52:922][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.06.29-22.57.52:922][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.06.29-22.57.52:922][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.06.29-22.57.53:092][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.06.29-22.57.53:111][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.06.29-22.57.53:112][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.06.29-22.57.53:126][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.06.29-22.57.53:128][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.06.29-22.57.53:128][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.06.29-22.57.53:128][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.06.29-22.57.53:128][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.29-22.57.53:128][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.29-22.57.53:128][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.29-22.57.53:128][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.29-22.57.53:130][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.29-22.57.53:130][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.29-22.57.53:130][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.29-22.57.53:130][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.29-22.57.53:130][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.29-22.57.53:130][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.29-22.57.53:130][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.29-22.57.53:130][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.29-22.57.53:168][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.29-22.57.53:168][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.06.29-22.57.53:177][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.06.29-22.57.53:178][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.29-22.57.53:189][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.29-22.57.53:189][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.29-22.57.53:190][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.29-22.57.53:190][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.29-22.57.53:190][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.29-22.57.53:190][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.29-22.57.53:190][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.29-22.57.53:190][  0]LogInit: FAudioDevice initialized.
+[2023.06.29-22.57.53:190][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.06.29-22.57.53:190][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.06.29-22.57.53:227][  0]LogDerivedDataCache: Saved boot cache 0.04s 94MB C:/Users/George Edmon/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.06.29-22.57.53:228][  0]LogInit: Texture streaming: Enabled
+[2023.06.29-22.57.53:278][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.06.29-22.57.53:295][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.06.29-22.57.53:295][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.06.29-22.57.53:296][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.06.29-22.57.53:423][  0]LogInit: Transaction tracking system initialized
+[2023.06.29-22.57.53:530][  0]BlueprintLog: New page: Editor Load
+[2023.06.29-22.57.53:828][  0]LocalizationService: Localization service is disabled
+[2023.06.29-22.57.54:003][  0]TimingProfiler: Initialize
+[2023.06.29-22.57.54:003][  0]TimingProfiler: OnSessionChanged
+[2023.06.29-22.57.54:003][  0]LoadingProfiler: Initialize
+[2023.06.29-22.57.54:003][  0]LoadingProfiler: OnSessionChanged
+[2023.06.29-22.57.54:003][  0]NetworkingProfiler: Initialize
+[2023.06.29-22.57.54:003][  0]NetworkingProfiler: OnSessionChanged
+[2023.06.29-22.57.54:003][  0]MemoryProfiler: Initialize
+[2023.06.29-22.57.54:003][  0]MemoryProfiler: OnSessionChanged
+[2023.06.29-22.57.54:535][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.06.29-22.57.54:535][  0]LogCook: Display: Mobile HDR setting 1
+[2023.06.29-22.57.54:832][  0]LogFileCache: Scanning file cache for directory 'D:/School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/' took 0.01s
+[2023.06.29-22.57.55:526][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.06.29-22.57.55:528][  0]SourceControl: Source control is disabled
+[2023.06.29-22.57.55:528][  0]LogUnrealEdMisc: Loading editor; pre map load, took 21.790
+[2023.06.29-22.57.55:528][  0]Cmd: MAP LOAD FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Maps/Gameplay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.29-22.57.55:531][  0]LightingResults: New page: Lighting Build
+[2023.06.29-22.57.55:532][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-22.57.55:532][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-22.57.55:532][  0]MapCheck: New page: Map Check
+[2023.06.29-22.57.55:532][  0]LightingResults: New page: Lighting Build
+[2023.06.29-22.57.55:536][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.29-22.57.55:537][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.06.29-22.57.55:586][  0]LogBlueprint: Error: [AssetLog] D:\School\Unreal Engine\GalacticGuardian\GalacticGuardian\Content\Blueprints\BP_GameMode.uasset: [Compiler] The variable Current_Row_Data declared in  BP_GameMode  has an invalid type Structure
+[2023.06.29-22.57.55:587][  0]LogBlueprint: Error: [AssetLog] D:\School\Unreal Engine\GalacticGuardian\GalacticGuardian\Content\Blueprints\BP_GameMode.uasset: [Compiler] The variable Current_Row_Data declared in  BP_GameMode  has an invalid type Structure
+[2023.06.29-22.57.55:639][  0]LogSlate: Took 0.003701 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.29-22.58.29:982][  0]LogSlate: Window 'Message' being destroyed
+[2023.06.29-22.58.29:982][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.06.29-22.58.29:992][  0]Message dialog closed, result: Ok, title: Message, text: The following member variables in blueprint 'Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode' have invalid type. Would you like to remove them? 
+
+Current Row Data
+
+[2023.06.29-22.58.29:997][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2023.06.29-22.58.29:998][  0]LogAIModule: Creating AISystem for world Gameplay
+[2023.06.29-22.58.29:999][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.29-22.58.30:007][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.29-22.58.30:009][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.29-22.58.30:009][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2023.06.29-22.58.30:009][  0]LogFileHelpers: Loading map 'Gameplay' took 34.481
+[2023.06.29-22.58.30:011][  0]LogUnrealEdMisc: Total Editor Startup Time, took 56.273
+[2023.06.29-22.58.30:077][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.06.29-22.58.30:186][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.29-22.58.30:190][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.29-22.58.30:192][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.29-22.58.30:196][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.29-22.58.30:232][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0061 seconds. Added 3822 classes and 928 folders.
+[2023.06.29-22.58.30:242][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.06.29-22.58.30:316][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.06.29-22.58.30:316][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:316][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.06.29-22.58.30:316][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:316][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.06.29-22.58.30:316][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2023.06.29-22.58.30:320][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.29-22.58.30:320][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:320][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.06.29-22.58.30:320][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:321][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.06.29-22.58.30:321][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.06.29-22.58.30:338][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.06.29-22.58.30:338][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:338][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.06.29-22.58.30:338][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:338][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.06.29-22.58.30:338][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.06.29-22.58.30:360][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.06.29-22.58.30:360][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.06.29-22.58.30:360][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:360][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.06.29-22.58.30:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.06.29-22.58.30:412][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.06.29-22.58.30:412][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:412][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.06.29-22.58.30:412][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:412][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.06.29-22.58.30:412][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.06.29-22.58.30:416][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.06.29-22.58.30:416][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:416][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.06.29-22.58.30:416][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:416][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.06.29-22.58.30:416][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.06.29-22.58.30:421][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.06.29-22.58.30:421][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:421][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.06.29-22.58.30:421][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:421][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.06.29-22.58.30:421][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.06.29-22.58.30:426][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.06.29-22.58.30:426][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:426][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.06.29-22.58.30:426][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:426][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.06.29-22.58.30:426][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.06.29-22.58.30:444][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.06.29-22.58.30:444][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:444][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.06.29-22.58.30:444][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:444][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.06.29-22.58.30:444][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.06.29-22.58.30:452][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.06.29-22.58.30:452][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:452][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.06.29-22.58.30:452][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:452][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.06.29-22.58.30:452][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.06.29-22.58.30:457][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.06.29-22.58.30:457][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:457][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.06.29-22.58.30:457][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:457][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.06.29-22.58.30:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.06.29-22.58.30:461][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.06.29-22.58.30:461][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:461][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.06.29-22.58.30:461][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:461][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.06.29-22.58.30:461][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2023.06.29-22.58.30:469][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.29-22.58.30:469][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:469][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.06.29-22.58.30:469][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:469][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.06.29-22.58.30:469][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2023.06.29-22.58.30:475][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.06.29-22.58.30:475][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:475][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.06.29-22.58.30:475][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:475][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.06.29-22.58.30:475][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2023.06.29-22.58.30:479][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.06.29-22.58.30:479][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:479][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.06.29-22.58.30:479][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:479][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.06.29-22.58.30:479][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2023.06.29-22.58.30:483][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.06.29-22.58.30:483][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:483][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.06.29-22.58.30:483][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:483][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.06.29-22.58.30:483][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2023.06.29-22.58.30:487][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.06.29-22.58.30:488][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:488][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.06.29-22.58.30:488][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:488][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.06.29-22.58.30:488][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2023.06.29-22.58.30:492][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.06.29-22.58.30:492][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:492][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.06.29-22.58.30:492][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:492][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.06.29-22.58.30:492][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.06.29-22.58.30:496][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.29-22.58.30:496][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:496][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.06.29-22.58.30:496][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:496][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.06.29-22.58.30:496][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2023.06.29-22.58.30:502][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.29-22.58.30:502][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:502][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.06.29-22.58.30:502][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:502][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.06.29-22.58.30:502][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.06.29-22.58.30:506][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.06.29-22.58.30:506][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:506][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.06.29-22.58.30:506][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:506][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.06.29-22.58.30:506][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2023.06.29-22.58.30:512][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.06.29-22.58.30:512][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:512][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.06.29-22.58.30:512][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:512][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.06.29-22.58.30:512][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.06.29-22.58.30:519][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.06.29-22.58.30:519][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:519][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.06.29-22.58.30:519][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:519][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.06.29-22.58.30:519][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.06.29-22.58.30:522][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.06.29-22.58.30:522][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:522][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.06.29-22.58.30:522][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:522][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.06.29-22.58.30:522][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2023.06.29-22.58.30:527][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.29-22.58.30:527][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:527][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.06.29-22.58.30:527][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:527][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.06.29-22.58.30:527][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2023.06.29-22.58.30:533][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.06.29-22.58.30:533][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.29-22.58.30:533][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.06.29-22.58.30:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.06.29-22.58.30:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.06.29-22.58.30:533][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.06.29-22.58.34:990][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.06.29-22.58.34:991][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.06.29-22.58.35:223][  0]LogSlate: Took 0.018913 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.06.29-22.58.35:226][  0]LogSlate: Took 0.002553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.06.29-22.58.35:553][  0]LogRenderer: Reallocating scene render targets to support 1208x568 Format 10 NumSamples 1 (Frame:1).
+[2023.06.29-22.58.35:878][  0]LogSlate: Took 0.014063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.29-22.58.35:948][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.06.29-22.58.35:948][  0]LogLoad: (Engine Initialization) Total time: 62.21 seconds
+[2023.06.29-22.58.35:948][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.06.29-22.58.35:977][  0]LogAssetRegistry: Asset discovery search completed in 51.0902 seconds
+[2023.06.29-22.58.35:993][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.06.29-22.58.35:994][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.06.29-22.58.36:974][ 53]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.29-23.10.02:738][636]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.29-23.10.02:752][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.29-23.10.02:752][636]BlueprintLog: Warning: Blueprint failed to compile:  BP_GameMode
+[2023.06.29-23.10.02:752][636]LogCustomDialog: Dialog displayed:
+[2023.06.29-23.10.15:060][636]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.06.29-23.10.15:111][636]LogSlate: Took 0.018625 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.06.29-23.10.16:696][827]LogSlate: Window 'Message Log' being destroyed
+[2023.06.29-23.10.16:700][827]LogSlate: Window 'Message Log' being destroyed
+[2023.06.29-23.10.17:681][928]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/BP_MainMenu.BP_MainMenu
+[2023.06.29-23.10.18:429][928]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2023.06.29-23.10.19:040][928]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/BP_Credit.BP_Credit
+[2023.06.29-23.10.19:249][928]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2023.06.29-23.10.19:711][928]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemy_Parent.Enemy_Parent
+[2023.06.29-23.10.20:097][928]LogSlate: Took 0.003462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.06.29-23.10.22:529][171]LogSlate: Took 0.022927 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.06.29-23.10.27:382][734]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2023.06.29-23.10.29:416][946]BlueprintLog: New page: Compile BP_GameMode
+[2023.06.29-23.10.29:466][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.06.29-23.10.31:854][228]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.29-23.10.31:867][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.29-23.10.31:867][228]PIE: New page: PIE session: Gameplay (Jun. 29, 2023, 3:10:31 p.m.)
+[2023.06.29-23.10.31:868][228]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.06.29-23.10.31:869][228]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.06.29-23.10.31:869][228]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gameplay
+[2023.06.29-23.10.31:871][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001578s)
+[2023.06.29-23.10.31:872][228]LogAIModule: Creating AISystem for world Gameplay
+[2023.06.29-23.10.31:872][228]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2023.06.29-23.10.31:872][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gameplay.Gameplay to /Game/Maps/UEDPIE_0_Gameplay.Gameplay (0.002334s)
+[2023.06.29-23.10.31:894][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.06.29-23.10.31:894][228]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.06.29-23.10.31:894][228]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.29-23.10.31:894][228]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.29-23.10.31:894][228]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.29-23.10.31:894][228]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.29-23.10.31:894][228]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.29-23.10.31:894][228]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.29-23.10.31:894][228]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.29-23.10.31:894][228]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.29-23.10.31:895][228]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.29-23.10.31:895][228]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.29-23.10.31:895][228]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.29-23.10.31:895][228]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.29-23.10.31:897][228]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.29-23.10.31:897][228]LogAudioMixer: Display: 1: FrontRight
+[2023.06.29-23.10.31:900][228]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.06.29-23.10.31:901][228]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.29-23.10.31:901][228]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.29-23.10.31:901][228]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.29-23.10.31:901][228]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.29-23.10.31:901][228]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.29-23.10.31:901][228]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.29-23.10.31:902][228]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.29-23.10.31:902][228]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.29-23.10.31:902][228]LogInit: FAudioDevice initialized.
+[2023.06.29-23.10.31:902][228]LogAudio: Display: Audio Device (ID: 2) registered with world 'Gameplay'.
+[2023.06.29-23.10.31:906][228]LogLoad: Game class is 'BP_GameMode_C'
+[2023.06.29-23.10.31:907][228]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 0) at 2023.06.29-19.10.31
+[2023.06.29-23.10.31:907][228]LogWorld: Bringing up level for play took: 0.000521
+[2023.06.29-23.10.31:907][228]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.06.29-23.10.31:910][228]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2023.06.29-23.10.31:911][228]PIE: Server logged in
+[2023.06.29-23.10.31:912][228]PIE: Play in editor total start time 0.045 seconds.
+[2023.06.29-23.10.44:832][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.29-23.10.44:832][751]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gameplay
+[2023.06.29-23.10.44:833][751]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-23.10.44:834][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-23.10.44:847][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.29-23.10.44:851][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-23.10.44:875][751]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.29-23.10.44:879][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.29-23.10.44:879][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.29-23.10.44:880][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.29-23.10.44:891][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.06.29-23.10.44:920][752]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.06.29-23.16.03:751][391]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-23.16.03:751][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-23.16.40:703][706]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.29-23.16.48:892][706]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.06.29-23.17.32:311][178]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.06.29-23.17.32:321][178]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.06.29-23.17.32:334][178]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.06.29-23.17.36:975][731]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Enemy
+[2023.06.29-23.17.36:979][731]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.06.29-23.17.38:851][945]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2023.06.29-23.17.39:114][946]LogRenderer: Reallocating scene render targets to support 1208x704 Format 10 NumSamples 1 (Frame:1).
+[2023.06.29-23.20.28:565][711]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.06.29-23.20.28:567][711]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.057
+[2023.06.29-23.20.28:578][711]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2023.06.29-23.20.28:578][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2023.06.29-23.20.28:775][711]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_Player_Auto1A36953504F72138F00AD15B9191E1764.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Blueprints/BP_Player_Auto1.uasset'
+[2023.06.29-23.20.28:800][711]LogFileHelpers: Auto-saving content packages took 0.232
+[2023.06.29-23.27.45:568][414]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3980dfce-540a-4f26-8e61-033e19e916d9}.
+[2023.06.29-23.27.45:568][414]LogAudioMixer: Resetting audio stream to device id 
+[2023.06.29-23.27.45:572][414]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.29-23.27.45:572][414]LogAudioMixer: Display: 1: FrontRight
+[2023.06.29-23.29.35:793][497]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{0e1f2407-e391-40e4-b091-b77a1eca3168}.
+[2023.06.29-23.29.35:793][497]LogAudioMixer: Resetting audio stream to device id 
+[2023.06.29-23.29.35:811][497]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.29-23.29.35:811][497]LogAudioMixer: Display: 1: FrontRight
+[2023.06.29-23.29.35:854][498]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{0e1f2407-e391-40e4-b091-b77a1eca3168}.
+[2023.06.29-23.29.36:127][498]LogAudioMixer: Resetting audio stream to device id 
+[2023.06.29-23.29.36:133][498]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.29-23.29.36:133][498]LogAudioMixer: Display: 1: FrontRight
+[2023.06.29-23.42.42:328][750]BlueprintLog: New page: Compile BP_Enemy
+[2023.06.29-23.42.42:439][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.06.29-23.42.42:465][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2023.06.29-23.42.42:524][750]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_Enemy0B13F1A34879BA3B045DD6B44EDCF231.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Enemy.uasset'
+[2023.06.29-23.42.42:541][750]AssetCheck: New page: Asset Save: BP_Enemy
+[2023.06.29-23.42.42:541][750]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2023.06.29-23.43.19:641][862]BlueprintLog: New page: Compile BP_Enemy
+[2023.06.29-23.43.19:671][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.06.29-23.43.19:691][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2023.06.29-23.43.19:738][862]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_Enemy8E007D254BFE26A730C08C8E7AD1D753.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Enemy.uasset'
+[2023.06.29-23.43.19:751][862]AssetCheck: New page: Asset Save: BP_Enemy
+[2023.06.29-23.43.19:751][862]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2023.06.29-23.44.53:201][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.06.29-23.44.53:205][565]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.028
+[2023.06.29-23.44.53:205][565]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Enemy] ([2] browsable assets)...
+[2023.06.29-23.44.53:205][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy]
+[2023.06.29-23.44.53:259][565]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_Enemy_Auto27A88AAC6447735DD88FD66AED5AB558A.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Blueprints/BP_Enemy_Auto2.uasset'
+[2023.06.29-23.44.53:262][565]LogFileHelpers: Auto-saving content packages took 0.057
+[2023.06.29-23.45.43:695][904]BlueprintLog: New page: Compile BP_Enemy
+[2023.06.29-23.45.43:728][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.06.29-23.45.43:745][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2023.06.29-23.45.43:806][904]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_Enemy20A1D77C46C219101C066BBDB4224A62.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Enemy.uasset'
+[2023.06.29-23.45.43:823][904]AssetCheck: New page: Asset Save: BP_Enemy
+[2023.06.29-23.45.43:823][904]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2023.06.29-23.53.17:059][106]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.06.29-23.53.17:069][106]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.06.29-23.53.17:081][106]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.06.29-23.53.33:611][ 89]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Enemy_Pawn
+[2023.06.29-23.53.33:615][ 89]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.06.29-23.53.42:099][ 99]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Enemy_Pawn.BP_Enemy_Pawn
+[2023.06.29-23.54.49:513][891]LogEditorTransaction: Undo Replace component used material
+[2023.06.29-23.54.52:369][197]LogEditorTransaction: Undo Replace component used material
+[2023.06.30-00.02.57:706][622]LogEditorTransaction: Undo Make New Scene Root
+[2023.06.30-00.02.59:164][761]LogEditorTransaction: Undo Modify Component(s)
+[2023.06.30-00.02.59:540][805]LogEditorTransaction: Undo Modify Component(s)
+[2023.06.30-00.02.59:854][842]LogEditorTransaction: Undo Modify Component(s)
+[2023.06.30-00.03.00:252][889]LogEditorTransaction: Undo Modify Component(s)
+[2023.06.30-00.03.00:634][934]LogEditorTransaction: Undo Add Component
+[2023.06.30-00.04.05:955][598]BlueprintLog: New page: Compile BP_Enemy_Pawn
+[2023.06.30-00.04.06:007][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.06.30-00.04.06:027][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy_Pawn" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Enemy_Pawn.uasset" SILENT=true
+[2023.06.30-00.04.06:081][598]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_Enemy_PawnAE5EC8D14713554E58A132867339C7B3.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Enemy_Pawn.uasset'
+[2023.06.30-00.04.06:095][598]AssetCheck: New page: Asset Save: BP_Enemy_Pawn
+[2023.06.30-00.04.06:095][598]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy_Pawn.BP_Enemy_Pawn
+[2023.06.30-00.07.07:220][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.06.30-00.07.07:221][685]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.027
+[2023.06.30-00.07.07:222][685]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Enemy_Pawn] ([4] browsable assets)...
+[2023.06.30-00.07.07:222][685]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy_Pawn]
+[2023.06.30-00.07.07:279][685]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_Enemy_Pawn_Auto30117097E42770A354F3E6D8844103F40.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Blueprints/BP_Enemy_Pawn_Auto3.uasset'
+[2023.06.30-00.07.07:281][685]LogFileHelpers: Auto-saving content packages took 0.060
+[2023.06.30-00.10.25:241][ 82]BlueprintLog: New page: Compile BP_Enemy_Pawn
+[2023.06.30-00.10.25:279][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.06.30-00.10.25:301][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy_Pawn" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Enemy_Pawn.uasset" SILENT=true
+[2023.06.30-00.10.25:362][ 82]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_Enemy_Pawn9817630143FF2344E6C6ADACBE171C10.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Enemy_Pawn.uasset'
+[2023.06.30-00.10.25:381][ 82]AssetCheck: New page: Asset Save: BP_Enemy_Pawn
+[2023.06.30-00.10.25:381][ 82]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy_Pawn.BP_Enemy_Pawn
+[2023.06.30-00.16.23:293][617]LogEditorTransaction: Undo Move Node
+[2023.06.30-00.16.23:804][643]LogEditorTransaction: Undo Move Node
+[2023.06.30-00.16.24:287][695]LogEditorTransaction: Undo Move Nodes
+[2023.06.30-00.16.47:383][391]BlueprintLog: New page: Compile BP_Player
+[2023.06.30-00.16.47:385][391]LogBlueprint: Error: [AssetLog] D:\School\Unreal Engine\GalacticGuardian\GalacticGuardian\Content\Blueprints\BP_Player.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.06.30-00.16.47:386][391]LogBlueprint: Warning: [AssetLog] D:\School\Unreal Engine\GalacticGuardian\GalacticGuardian\Content\Blueprints\BP_Player.uasset: [Compiler] Could not find a variable named "IsInvincible" in 'BP_Player_C'.
+Make sure 'BP_Player_C' has been compiled for  Get IsInvincible
+[2023.06.30-00.16.47:386][391]LogBlueprint: Warning: [AssetLog] D:\School\Unreal Engine\GalacticGuardian\GalacticGuardian\Content\Blueprints\BP_Player.uasset: [Compiler] Could not find a variable named "IsDead" in 'BP_Player_C'.
+Make sure 'BP_Player_C' has been compiled for  Set IsDead
+[2023.06.30-00.16.47:386][391]LogBlueprint: Error: [AssetLog] D:\School\Unreal Engine\GalacticGuardian\GalacticGuardian\Content\Blueprints\BP_Player.uasset: [Compiler] The property associated with  Is Dead  could not be found in '/Game/Blueprints/BP_Player.BP_Player_C'
+[2023.06.30-00.16.47:386][391]LogBlueprint: Error: [AssetLog] D:\School\Unreal Engine\GalacticGuardian\GalacticGuardian\Content\Blueprints\BP_Player.uasset: [Compiler] The property associated with  Is Invincible  could not be found in '/Game/Blueprints/BP_Player.BP_Player_C'
+[2023.06.30-00.16.47:432][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.06.30-00.16.55:698][349]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.06.30-00.16.55:712][349]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.30-00.17.24:695][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.06.30-00.17.24:698][874]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.028
+[2023.06.30-00.17.24:698][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2023.06.30-00.17.24:698][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2023.06.30-00.17.24:912][874]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_Player_Auto48F8596D14058492F291819B93F26C4F5.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Blueprints/BP_Player_Auto4.uasset'
+[2023.06.30-00.17.24:914][874]LogFileHelpers: Auto-saving content packages took 0.216
+[2023.06.30-00.18.18:579][280]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.06.30-00.18.18:589][280]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.06.30-00.18.23:219][836]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> BP_Gameover
+[2023.06.30-00.18.23:223][836]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.06.30-00.18.24:460][980]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/BP_Gameover.BP_Gameover
+[2023.06.30-00.27.46:490][374]BlueprintLog: New page: Compile BP_Gameover
+[2023.06.30-00.27.46:528][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.06.30-00.27.46:549][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gameover" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Gameover.uasset" SILENT=true
+[2023.06.30-00.27.46:666][374]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_Gameover1E43BA9F4C2C6E16EAB05695D70CCA52.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Gameover.uasset'
+[2023.06.30-00.27.46:680][374]AssetCheck: New page: Asset Save: BP_Gameover
+[2023.06.30-00.27.46:680][374]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_Gameover.BP_Gameover
+[2023.06.30-00.28.23:103][719]BlueprintLog: New page: Compile BP_Gameover
+[2023.06.30-00.28.23:139][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.06.30-00.28.23:157][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gameover" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Gameover.uasset" SILENT=true
+[2023.06.30-00.28.23:274][719]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_Gameover28E2909C4B6EF3133A13A3966794C576.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Gameover.uasset'
+[2023.06.30-00.28.23:288][719]AssetCheck: New page: Asset Save: BP_Gameover
+[2023.06.30-00.28.23:288][719]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_Gameover.BP_Gameover
+[2023.06.30-00.28.27:243][170]BlueprintLog: New page: Compile BP_Player
+[2023.06.30-00.28.27:244][170]LogBlueprint: Error: [AssetLog] D:\School\Unreal Engine\GalacticGuardian\GalacticGuardian\Content\Blueprints\BP_Player.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.06.30-00.28.27:245][170]LogBlueprint: Warning: [AssetLog] D:\School\Unreal Engine\GalacticGuardian\GalacticGuardian\Content\Blueprints\BP_Player.uasset: [Compiler] Could not find a variable named "IsInvincible" in 'BP_Player_C'.
+Make sure 'BP_Player_C' has been compiled for  Get IsInvincible
+[2023.06.30-00.28.27:245][170]LogBlueprint: Warning: [AssetLog] D:\School\Unreal Engine\GalacticGuardian\GalacticGuardian\Content\Blueprints\BP_Player.uasset: [Compiler] Could not find a variable named "IsDead" in 'BP_Player_C'.
+Make sure 'BP_Player_C' has been compiled for  Set IsDead
+[2023.06.30-00.28.27:245][170]LogBlueprint: Error: [AssetLog] D:\School\Unreal Engine\GalacticGuardian\GalacticGuardian\Content\Blueprints\BP_Player.uasset: [Compiler] The property associated with  Is Dead  could not be found in '/Game/Blueprints/BP_Player.BP_Player_C'
+[2023.06.30-00.28.27:245][170]LogBlueprint: Error: [AssetLog] D:\School\Unreal Engine\GalacticGuardian\GalacticGuardian\Content\Blueprints\BP_Player.uasset: [Compiler] The property associated with  Is Invincible  could not be found in '/Game/Blueprints/BP_Player.BP_Player_C'
+[2023.06.30-00.28.27:283][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.06.30-00.28.29:483][407]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.06.30-00.28.29:496][407]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.30-00.29.32:545][595]BlueprintLog: New page: Compile BP_Player
+[2023.06.30-00.29.32:547][595]LogBlueprint: Warning: [AssetLog] D:\School\Unreal Engine\GalacticGuardian\GalacticGuardian\Content\Blueprints\BP_Player.uasset: [Compiler] Could not find a variable named "IsDead" in 'BP_Player_C'.
+Make sure 'BP_Player_C' has been compiled for  Set IsDead
+[2023.06.30-00.29.32:548][595]LogBlueprint: Error: [AssetLog] D:\School\Unreal Engine\GalacticGuardian\GalacticGuardian\Content\Blueprints\BP_Player.uasset: [Compiler] The property associated with  Is Dead  could not be found in '/Game/Blueprints/BP_Player.BP_Player_C'
+[2023.06.30-00.29.32:586][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.06.30-00.30.02:567][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.06.30-00.30.02:569][352]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.028
+[2023.06.30-00.30.02:570][352]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2023.06.30-00.30.02:570][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2023.06.30-00.30.02:783][352]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_Player_Auto56F2E572543BA1EFA42AD97BB75A586CB.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Blueprints/BP_Player_Auto5.uasset'
+[2023.06.30-00.30.02:792][352]LogFileHelpers: Auto-saving content packages took 0.224
+[2023.06.30-00.31.44:460][368]BlueprintLog: New page: Compile BP_Player
+[2023.06.30-00.31.44:508][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.06.30-00.31.44:535][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2023.06.30-00.31.44:743][368]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_Player55FB0FE14735DC3587737CA58BDC9558.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Player.uasset'
+[2023.06.30-00.31.44:753][368]AssetCheck: New page: Asset Save: BP_Player
+[2023.06.30-00.31.44:753][368]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2023.06.30-00.32.11:284][528]BlueprintLog: New page: Compile BP_Player
+[2023.06.30-00.32.11:324][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.06.30-00.32.11:352][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2023.06.30-00.32.11:564][528]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_Player221F53014504FAFCF4CE2DAC394B2C1C.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Player.uasset'
+[2023.06.30-00.32.11:575][528]AssetCheck: New page: Asset Save: BP_Player
+[2023.06.30-00.32.11:575][528]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2023.06.30-00.46.41:322][ 18]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{657103a6-3e20-420a-81aa-c952971d2f5b}.
+[2023.06.30-00.46.41:642][ 18]LogAudioMixer: Resetting audio stream to device id 
+[2023.06.30-00.46.41:646][ 18]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.30-00.46.41:646][ 18]LogAudioMixer: Display: 1: FrontRight
+[2023.06.30-01.22.48:366][265]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{0e1f2407-e391-40e4-b091-b77a1eca3168}.
+[2023.06.30-01.22.48:370][265]LogAudioMixer: Resetting audio stream to device id 
+[2023.06.30-01.22.48:417][265]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.30-01.22.48:417][265]LogAudioMixer: Display: 1: FrontRight
+[2023.06.30-01.27.09:045][403]BlueprintLog: New page: Compile BP_Enemy
+[2023.06.30-01.27.09:090][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.06.30-01.27.09:110][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2023.06.30-01.27.09:176][403]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_Enemy8AF19D814589CB65548D37974718AB0D.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Enemy.uasset'
+[2023.06.30-01.27.09:193][403]AssetCheck: New page: Asset Save: BP_Enemy
+[2023.06.30-01.27.09:193][403]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2023.06.30-01.28.24:934][235]BlueprintLog: New page: Compile BP_Enemy
+[2023.06.30-01.28.24:974][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.06.30-01.28.25:002][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2023.06.30-01.28.25:083][235]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_EnemyC7A8163341C59AA759E9FDAB56B015D0.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Enemy.uasset'
+[2023.06.30-01.28.25:101][235]AssetCheck: New page: Asset Save: BP_Enemy
+[2023.06.30-01.28.25:101][235]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2023.06.30-01.28.37:120][661]BlueprintLog: New page: Compile BP_Enemy
+[2023.06.30-01.28.37:122][661]LogBlueprint: Error: [AssetLog] D:\School\Unreal Engine\GalacticGuardian\GalacticGuardian\Content\Blueprints\BP_Enemy.uasset: [Compiler] This blueprint (self) is not a BP_Player_C, therefore ' Target ' must have a connection.
+[2023.06.30-01.28.37:122][661]LogBlueprint: Error: [AssetLog] D:\School\Unreal Engine\GalacticGuardian\GalacticGuardian\Content\Blueprints\BP_Enemy.uasset: [Compiler] Variable node  Set Health  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.30-01.28.37:159][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.06.30-01.28.39:392][915]BlueprintLog: New page: Compile BP_Enemy
+[2023.06.30-01.28.39:430][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.06.30-01.28.39:454][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2023.06.30-01.28.39:532][915]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_Enemy58D334C24E6AE1C9E2C744B6EBB92EF7.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Enemy.uasset'
+[2023.06.30-01.28.39:549][915]AssetCheck: New page: Asset Save: BP_Enemy
+[2023.06.30-01.28.39:549][915]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2023.06.30-01.30.04:818][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.06.30-01.30.04:822][ 53]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.031
+[2023.06.30-01.30.04:822][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2023.06.30-01.30.04:822][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2023.06.30-01.30.05:038][ 53]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_Player_Auto66BC038C94AED6B1A2C3D048F4D192993.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Blueprints/BP_Player_Auto6.uasset'
+[2023.06.30-01.30.05:041][ 53]LogFileHelpers: Auto-saving content packages took 0.219
+[2023.06.30-01.30.36:477][762]BlueprintLog: New page: Compile BP_Enemy
+[2023.06.30-01.30.36:514][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.06.30-01.30.36:540][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2023.06.30-01.30.36:606][762]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/BP_Enemy4593FBA94572B8DEA9B7439479E61A7F.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Content/Blueprints/BP_Enemy.uasset'
+[2023.06.30-01.30.36:627][762]AssetCheck: New page: Asset Save: BP_Enemy
+[2023.06.30-01.30.36:627][762]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2023.06.30-01.32.59:886][797]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Gameplay.Gameplay:PersistentLevel.Gameplay
+[2023.06.30-01.34.28:090][ 76]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-01.34.28:091][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-01.34.28:106][ 76]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-01.34.28:107][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-01.36.54:041][473]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Background)
+[2023.06.30-01.36.54:863][565]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Background)
+[2023.06.30-01.36.55:287][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Background)
+[2023.06.30-01.38.38:482][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.06.30-01.38.40:828][960]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.30-01.38.40:968][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.06.30-01.38.40:998][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.06.30-01.38.41:019][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.30-01.47.35:006][677]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/George Edmon/Desktop/Space Rocks/b30000.png)
+[2023.06.30-01.47.35:013][677]LogTexture: Display: Building textures: b30000 (OODLE_AutoDXT, 320X240)
+[2023.06.30-01.47.35:025][677]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/George Edmon/Desktop/Space Rocks/b30001.png)
+[2023.06.30-01.47.35:032][677]LogTexture: Display: Building textures: b30001 (OODLE_AutoDXT, 320X240)
+[2023.06.30-01.47.35:039][677]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/George Edmon/Desktop/Space Rocks/b30002.png)
+[2023.06.30-01.47.35:045][677]LogTexture: Display: Building textures: b30002 (OODLE_AutoDXT, 320X240)
+[2023.06.30-01.47.35:052][677]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/George Edmon/Desktop/Space Rocks/b30003.png)
+[2023.06.30-01.47.35:058][677]LogTexture: Display: Building textures: b30003 (OODLE_AutoDXT, 320X240)
+[2023.06.30-01.47.35:065][677]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/George Edmon/Desktop/Space Rocks/b30004.png)
+[2023.06.30-01.47.35:070][677]LogTexture: Display: Building textures: b30004 (OODLE_AutoDXT, 320X240)
+[2023.06.30-01.47.35:081][677]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/George Edmon/Desktop/Space Rocks/b30005.png)
+[2023.06.30-01.47.35:087][677]LogTexture: Display: Building textures: b30005 (OODLE_AutoDXT, 320X240)
+[2023.06.30-01.47.35:098][677]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/George Edmon/Desktop/Space Rocks/b30006.png)
+[2023.06.30-01.47.35:104][677]LogTexture: Display: Building textures: b30006 (OODLE_AutoDXT, 320X240)
+[2023.06.30-01.47.35:115][677]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/George Edmon/Desktop/Space Rocks/b30007.png)
+[2023.06.30-01.47.35:121][677]LogTexture: Display: Building textures: b30007 (OODLE_AutoDXT, 320X240)
+[2023.06.30-01.47.35:132][677]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/George Edmon/Desktop/Space Rocks/b30008.png)
+[2023.06.30-01.47.35:138][677]LogTexture: Display: Building textures: b30008 (OODLE_AutoDXT, 320X240)
+[2023.06.30-01.47.35:149][677]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/George Edmon/Desktop/Space Rocks/b30009.png)
+[2023.06.30-01.47.35:154][677]LogTexture: Display: Building textures: b30009 (OODLE_AutoDXT, 320X240)
+[2023.06.30-01.47.35:166][677]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/George Edmon/Desktop/Space Rocks/b30010.png)
+[2023.06.30-01.47.35:173][677]LogTexture: Display: Building textures: b30010 (OODLE_AutoDXT, 320X240)
+[2023.06.30-01.47.35:185][677]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/George Edmon/Desktop/Space Rocks/b30011.png)
+[2023.06.30-01.47.35:191][677]LogTexture: Display: Building textures: b30011 (OODLE_AutoDXT, 320X240)
+[2023.06.30-01.47.35:201][677]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/George Edmon/Desktop/Space Rocks/b30012.png)
+[2023.06.30-01.47.35:207][677]LogTexture: Display: Building textures: b30012 (OODLE_AutoDXT, 320X240)
+[2023.06.30-01.47.35:219][677]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/George Edmon/Desktop/Space Rocks/b30013.png)
+[2023.06.30-01.47.35:225][677]LogTexture: Display: Building textures: b30013 (OODLE_AutoDXT, 320X240)
+[2023.06.30-01.47.35:236][677]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/George Edmon/Desktop/Space Rocks/b30014.png)
+[2023.06.30-01.47.35:243][677]LogTexture: Display: Building textures: b30014 (OODLE_AutoDXT, 320X240)
+[2023.06.30-01.47.35:255][677]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/George Edmon/Desktop/Space Rocks/b30015.png)
+[2023.06.30-01.47.35:262][677]LogTexture: Display: Building textures: b30015 (OODLE_AutoDXT, 320X240)
+[2023.06.30-01.47.38:395][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.06.30-01.47.38:402][ 34]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.039
+[2023.06.30-01.47.38:402][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/b30000] ([1] browsable assets)...
+[2023.06.30-01.47.38:404][ 34]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/b30000.b30000]
+[2023.06.30-01.47.38:404][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/b30000]
+[2023.06.30-01.47.38:404][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/b30000" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30000_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.06.30-01.47.38:414][ 34]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/b30000_Auto752EFC9AD46DD570C6768829AB0FF3CA9.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30000_Auto7.uasset'
+[2023.06.30-01.47.38:428][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/b30001] ([1] browsable assets)...
+[2023.06.30-01.47.38:432][ 34]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/b30001.b30001]
+[2023.06.30-01.47.38:432][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/b30001]
+[2023.06.30-01.47.38:432][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/b30001" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30001_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.06.30-01.47.38:453][ 34]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/b30001_Auto714AFEE604EC6257F253783A9956D4E74.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30001_Auto7.uasset'
+[2023.06.30-01.47.38:455][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/b30002] ([1] browsable assets)...
+[2023.06.30-01.47.38:457][ 34]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/b30002.b30002]
+[2023.06.30-01.47.38:457][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/b30002]
+[2023.06.30-01.47.38:457][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/b30002" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30002_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.06.30-01.47.38:466][ 34]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/b30002_Auto7638208EF47BE46D3C881E19EA50DE88E.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30002_Auto7.uasset'
+[2023.06.30-01.47.38:468][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/b30003] ([1] browsable assets)...
+[2023.06.30-01.47.38:469][ 34]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/b30003.b30003]
+[2023.06.30-01.47.38:469][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/b30003]
+[2023.06.30-01.47.38:469][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/b30003" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30003_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.06.30-01.47.38:479][ 34]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/b30003_Auto769DFAD4B4F5FA9A7C71C60A5507BDDE9.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30003_Auto7.uasset'
+[2023.06.30-01.47.38:481][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/b30004] ([1] browsable assets)...
+[2023.06.30-01.47.38:482][ 34]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/b30004.b30004]
+[2023.06.30-01.47.38:482][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/b30004]
+[2023.06.30-01.47.38:482][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/b30004" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30004_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.06.30-01.47.38:492][ 34]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/b30004_Auto709EFC7424F56D98329726DBF6D5DB627.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30004_Auto7.uasset'
+[2023.06.30-01.47.38:494][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/b30005] ([1] browsable assets)...
+[2023.06.30-01.47.38:495][ 34]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/b30005.b30005]
+[2023.06.30-01.47.38:495][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/b30005]
+[2023.06.30-01.47.38:495][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/b30005" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30005_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.06.30-01.47.38:504][ 34]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/b30005_Auto7925F03274D6D5CD3DB3C7F8C588723F1.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30005_Auto7.uasset'
+[2023.06.30-01.47.38:505][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/b30006] ([1] browsable assets)...
+[2023.06.30-01.47.38:506][ 34]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/b30006.b30006]
+[2023.06.30-01.47.38:506][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/b30006]
+[2023.06.30-01.47.38:506][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/b30006" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30006_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.06.30-01.47.38:516][ 34]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/b30006_Auto730F856F04973B9845CA8F2B8FFC26FFC.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30006_Auto7.uasset'
+[2023.06.30-01.47.38:517][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/b30007] ([1] browsable assets)...
+[2023.06.30-01.47.38:519][ 34]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/b30007.b30007]
+[2023.06.30-01.47.38:519][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/b30007]
+[2023.06.30-01.47.38:519][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/b30007" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30007_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.06.30-01.47.38:528][ 34]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/b30007_Auto78F7E72FB4E649BFE7F6BA99210BA7408.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30007_Auto7.uasset'
+[2023.06.30-01.47.38:530][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/b30008] ([1] browsable assets)...
+[2023.06.30-01.47.38:532][ 34]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/b30008.b30008]
+[2023.06.30-01.47.38:532][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/b30008]
+[2023.06.30-01.47.38:532][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/b30008" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30008_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.06.30-01.47.38:540][ 34]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/b30008_Auto7FA189BE64252F47C44363E9E2EF5C9D0.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30008_Auto7.uasset'
+[2023.06.30-01.47.38:542][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/b30009] ([1] browsable assets)...
+[2023.06.30-01.47.38:543][ 34]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/b30009.b30009]
+[2023.06.30-01.47.38:543][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/b30009]
+[2023.06.30-01.47.38:543][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/b30009" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30009_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.06.30-01.47.38:553][ 34]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/b30009_Auto70F05EDCD42EC91C61F98F88D79969649.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30009_Auto7.uasset'
+[2023.06.30-01.47.38:554][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/b30010] ([1] browsable assets)...
+[2023.06.30-01.47.38:556][ 34]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/b30010.b30010]
+[2023.06.30-01.47.38:556][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/b30010]
+[2023.06.30-01.47.38:556][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/b30010" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30010_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.06.30-01.47.38:566][ 34]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/b30010_Auto702634CE94615ABE4230A94BAA88AAA72.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30010_Auto7.uasset'
+[2023.06.30-01.47.38:567][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/b30011] ([1] browsable assets)...
+[2023.06.30-01.47.38:569][ 34]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/b30011.b30011]
+[2023.06.30-01.47.38:569][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/b30011]
+[2023.06.30-01.47.38:569][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/b30011" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30011_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.06.30-01.47.38:578][ 34]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/b30011_Auto77931257B474A72A21C9058AFC13F30CC.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30011_Auto7.uasset'
+[2023.06.30-01.47.38:580][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/b30012] ([1] browsable assets)...
+[2023.06.30-01.47.38:582][ 34]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/b30012.b30012]
+[2023.06.30-01.47.38:582][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/b30012]
+[2023.06.30-01.47.38:582][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/b30012" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30012_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.06.30-01.47.38:590][ 34]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/b30012_Auto7D26185634F51B3AE7C4203801D8B8984.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30012_Auto7.uasset'
+[2023.06.30-01.47.38:592][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/b30013] ([1] browsable assets)...
+[2023.06.30-01.47.38:595][ 34]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/b30013.b30013]
+[2023.06.30-01.47.38:595][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/b30013]
+[2023.06.30-01.47.38:595][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/b30013" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30013_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.06.30-01.47.38:607][ 34]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/b30013_Auto74AF79F4246C5509D3850C989D72721CB.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30013_Auto7.uasset'
+[2023.06.30-01.47.38:618][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/b30014] ([1] browsable assets)...
+[2023.06.30-01.47.38:619][ 34]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/b30014.b30014]
+[2023.06.30-01.47.38:619][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/b30014]
+[2023.06.30-01.47.38:619][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/b30014" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30014_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.06.30-01.47.38:628][ 34]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/b30014_Auto74D5A20FE4B23E30A48DA79A2EF24004C.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30014_Auto7.uasset'
+[2023.06.30-01.47.38:630][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/b30015] ([1] browsable assets)...
+[2023.06.30-01.47.38:632][ 34]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/b30015.b30015]
+[2023.06.30-01.47.38:632][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/b30015]
+[2023.06.30-01.47.38:632][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/b30015" FILE="../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30015_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.06.30-01.47.38:642][ 34]LogSavePackage: Moving '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/b30015_Auto74A37B4034A3099D24482F597D02FC3A2.tmp' to '../../../../../School/Unreal Engine/GalacticGuardian/GalacticGuardian/Saved/Autosaves/Game/Assets/b30015_Auto7.uasset'
+[2023.06.30-01.47.38:643][ 34]LogFileHelpers: Auto-saving content packages took 0.242
+[2023.06.30-01.49.58:506][346]LogContentBrowser: Deferred new asset file creation: NewPaperFlipbook
+[2023.06.30-01.49.58:514][346]LogContentBrowser: Creating deferred item: NewPaperFlipbook
+[2023.06.30-01.50.11:053][851]LogContentBrowser: Attempting asset rename: NewPaperFlipbook -> Rock_Animation
+[2023.06.30-01.50.11:053][851]LogContentBrowser: End creating deferred item NewPaperFlipbook
+[2023.06.30-01.50.12:663][ 43]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Animations/Rock_Animation.Rock_Animation
+[2023.06.30-01.50.12:737][ 44]LogRenderer: Reallocating scene render targets to support 1528x796 Format 10 NumSamples 1 (Frame:1).
+[2023.06.30-01.50.58:963][350]Cmd: TRANSACTION UNDO
+[2023.06.30-01.50.58:963][350]LogEditorTransaction: Undo Add Key Frame
+[2023.06.30-01.52.12:350][653]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/b30000.b30000
+[2023.06.30-01.52.12:409][653]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2023.06.30-01.52.52:867][847]LogSlate: Window 'Extract sprites' being destroyed
+[2023.06.30-01.52.54:940][ 20]LogSlate: Window 'Extract sprites' being destroyed
+[2023.06.30-01.52.57:176][207]LogSlate: Window 'Extract sprites' being destroyed
+[2023.06.30-01.52.59:382][401]LogSlate: Window 'Extract sprites' being destroyed
+[2023.06.30-01.53.00:572][506]LogSlate: Window 'Extract sprites' being destroyed
+[2023.06.30-01.53.00:916][536]LogSlate: Window 'Extract sprites' being destroyed
+[2023.06.30-01.53.01:151][557]LogSlate: Window 'Extract sprites' being destroyed
+[2023.06.30-01.53.01:586][599]LogSlate: Window 'Extract sprites' being destroyed
+[2023.06.30-01.53.01:746][614]LogSlate: Window 'Extract sprites' being destroyed
+[2023.06.30-01.53.02:071][646]LogSlate: Window 'Extract sprites' being destroyed
+[2023.06.30-01.53.02:233][662]LogSlate: Window 'Extract sprites' being destroyed
+[2023.06.30-01.53.02:496][690]LogSlate: Window 'Extract sprites' being destroyed
+[2023.06.30-01.53.02:768][721]LogSlate: Window 'Extract sprites' being destroyed
+[2023.06.30-01.53.03:204][771]LogSlate: Window 'Extract sprites' being destroyed
+[2023.06.30-01.53.03:367][789]LogSlate: Window 'Extract sprites' being destroyed
+[2023.06.30-01.53.03:779][837]LogSlate: Window 'Extract sprites' being destroyed
+[2023.06.30-01.53.23:290][114]LogSlate: Window 'Extract sprites' being destroyed
+[2023.06.30-01.53.45:700][716]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.06.30-01.53.46:640][716]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.30-01.53.46:705][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.06.30-01.54.05:735][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.06.30-01.54.07:039][947]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.30-01.54.07:070][947]LogUObjectGlobals: Force Deleting 16 Package(s):
+	Asset Name: /Game/Assets/b30000.b30000
+	Asset Name: /Game/Assets/b30001.b30001
+	Asset Name: /Game/Assets/b30002.b30002
+	Asset Name: /Game/Assets/b30003.b30003
+	Asset Name: /Game/Assets/b30004.b30004
+	Asset Name: /Game/Assets/b30005.b30005
+	Asset Name: /Game/Assets/b30006.b30006
+	Asset Name: /Game/Assets/b30007.b30007
+	Asset Name: /Game/Assets/b30008.b30008
+	Asset Name: /Game/Assets/b30009.b30009
+[2023.06.30-01.54.18:324][947]LogSlate: Window 'Message' being destroyed
+[2023.06.30-01.54.18:330][947]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Assets/b30000.b30000 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Assets/b30000.b30000:
+   PaperSprite /Game/Assets/b30000_Sprite.b30000_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.06.30-01.54.18:330][947]LogObjectTools: Warning: ForceDeleteObject failed to delete b30000, this package is now potentially corrupt
+[2023.06.30-01.54.19:538][947]LogSlate: Window 'Message' being destroyed
+[2023.06.30-01.54.19:542][947]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Assets/b30001.b30001 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Assets/b30001.b30001:
+   PaperSprite /Game/Assets/b30001_Sprite.b30001_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.06.30-01.54.19:542][947]LogObjectTools: Warning: ForceDeleteObject failed to delete b30001, this package is now potentially corrupt
+[2023.06.30-01.54.20:172][947]LogSlate: Window 'Message' being destroyed
+[2023.06.30-01.54.20:175][947]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Assets/b30002.b30002 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Assets/b30002.b30002:
+   PaperSprite /Game/Assets/b30002_Sprite.b30002_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.06.30-01.54.20:175][947]LogObjectTools: Warning: ForceDeleteObject failed to delete b30002, this package is now potentially corrupt
+[2023.06.30-01.54.22:006][947]LogSlate: Window 'Message' being destroyed
+[2023.06.30-01.54.22:012][947]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Assets/b30003.b30003 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Assets/b30003.b30003:
+   PaperSprite /Game/Assets/b30003_Sprite.b30003_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.06.30-01.54.22:013][947]LogObjectTools: Warning: ForceDeleteObject failed to delete b30003, this package is now potentially corrupt
+[2023.06.30-01.54.22:500][947]LogSlate: Window 'Message' being destroyed
+[2023.06.30-01.54.22:504][947]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Assets/b30004.b30004 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Assets/b30004.b30004:
+   PaperSprite /Game/Assets/b30004_Sprite.b30004_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.06.30-01.54.22:504][947]LogObjectTools: Warning: ForceDeleteObject failed to delete b30004, this package is now potentially corrupt
+[2023.06.30-01.54.22:975][947]LogSlate: Window 'Message' being destroyed
+[2023.06.30-01.54.22:979][947]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Assets/b30005.b30005 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Assets/b30005.b30005:
+   PaperSprite /Game/Assets/b30005_Sprite.b30005_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.06.30-01.54.22:979][947]LogObjectTools: Warning: ForceDeleteObject failed to delete b30005, this package is now potentially corrupt
+[2023.06.30-01.54.23:420][947]LogSlate: Window 'Message' being destroyed
+[2023.06.30-01.54.23:425][947]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Assets/b30006.b30006 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Assets/b30006.b30006:
+   PaperSprite /Game/Assets/b30006_Sprite.b30006_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.06.30-01.54.23:425][947]LogObjectTools: Warning: ForceDeleteObject failed to delete b30006, this package is now potentially corrupt
+[2023.06.30-01.54.23:879][947]LogSlate: Window 'Message' being destroyed
+[2023.06.30-01.54.23:883][947]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Assets/b30007.b30007 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Assets/b30007.b30007:
+   PaperSprite /Game/Assets/b30007_Sprite.b30007_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.06.30-01.54.23:883][947]LogObjectTools: Warning: ForceDeleteObject failed to delete b30007, this package is now potentially corrupt
+[2023.06.30-01.54.24:382][947]LogSlate: Window 'Message' being destroyed
+[2023.06.30-01.54.24:385][947]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Assets/b30008.b30008 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Assets/b30008.b30008:
+   PaperSprite /Game/Assets/b30008_Sprite.b30008_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.06.30-01.54.24:385][947]LogObjectTools: Warning: ForceDeleteObject failed to delete b30008, this package is now potentially corrupt
+[2023.06.30-01.54.24:967][947]LogSlate: Window 'Message' being destroyed
+[2023.06.30-01.54.24:972][947]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Assets/b30009.b30009 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Assets/b30009.b30009:
+   PaperSprite /Game/Assets/b30009_Sprite.b30009_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.06.30-01.54.24:972][947]LogObjectTools: Warning: ForceDeleteObject failed to delete b30009, this package is now potentially corrupt
+[2023.06.30-01.54.25:470][947]LogSlate: Window 'Message' being destroyed
+[2023.06.30-01.54.25:474][947]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Assets/b30010.b30010 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Assets/b30010.b30010:
+   PaperSprite /Game/Assets/b30010_Sprite.b30010_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.06.30-01.54.25:474][947]LogObjectTools: Warning: ForceDeleteObject failed to delete b30010, this package is now potentially corrupt
+[2023.06.30-01.54.26:011][947]LogSlate: Window 'Message' being destroyed
+[2023.06.30-01.54.26:017][947]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Assets/b30011.b30011 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Assets/b30011.b30011:
+   PaperSprite /Game/Assets/b30011_Sprite.b30011_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.06.30-01.54.26:017][947]LogObjectTools: Warning: ForceDeleteObject failed to delete b30011, this package is now potentially corrupt
+[2023.06.30-01.54.26:557][947]LogSlate: Window 'Message' being destroyed
+[2023.06.30-01.54.26:560][947]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Assets/b30012.b30012 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Assets/b30012.b30012:
+   PaperSprite /Game/Assets/b30012_Sprite.b30012_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.06.30-01.54.26:560][947]LogObjectTools: Warning: ForceDeleteObject failed to delete b30012, this package is now potentially corrupt
+[2023.06.30-01.54.27:038][947]LogSlate: Window 'Message' being destroyed
+[2023.06.30-01.54.27:043][947]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Assets/b30013.b30013 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Assets/b30013.b30013:
+   PaperSprite /Game/Assets/b30013_Sprite.b30013_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.06.30-01.54.27:043][947]LogObjectTools: Warning: ForceDeleteObject failed to delete b30013, this package is now potentially corrupt
+[2023.06.30-01.54.27:536][947]LogSlate: Window 'Message' being destroyed
+[2023.06.30-01.54.27:539][947]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Assets/b30014.b30014 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Assets/b30014.b30014:
+   PaperSprite /Game/Assets/b30014_Sprite.b30014_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.06.30-01.54.27:540][947]LogObjectTools: Warning: ForceDeleteObject failed to delete b30014, this package is now potentially corrupt
+[2023.06.30-01.54.28:061][947]LogSlate: Window 'Message' being destroyed
+[2023.06.30-01.54.28:065][947]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Assets/b30015.b30015 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Assets/b30015.b30015:
+   PaperSprite /Game/Assets/b30015_Sprite.b30015_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2023.06.30-01.54.28:065][947]LogObjectTools: Warning: ForceDeleteObject failed to delete b30015, this package is now potentially corrupt
+[2023.06.30-01.54.28:066][947]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.06.30-01.54.32:199][947]LogStats: FPlatformStackWalk::StackWalkAndDump -  4.133 s
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: === Handled ensure: ===
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: 
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3205]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: 
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: 					from the file system manually: 
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: /Game/Assets/b30000
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: /Game/Assets/b30001
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: /Game/Assets/b30002
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: /Game/Assets/b30003
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: /Game/Assets/b30004
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: /Game/Assets/b30005
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: /Game/Assets/b30006
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: /Game/Assets/b30007
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: /Game/Assets/b30008
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: /Game/Assets/b30009
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: /Game/Assets/b30010
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: /Game/Assets/b30011
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: /Game/Assets/b30012
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: /Game/Assets/b30013
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: /Game/Assets/b30014
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: /Game/Assets/b30015
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: Stack: 
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffed04ddaa8 UE4Editor-UnrealEd.dll!DispatchCheckVerify<bool,<lambda_24906ba49ebb007dbc745a5a026a11e4> >() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:164]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffecfda55f9 UE4Editor-UnrealEd.dll!ObjectTools::ForceDeleteObjects() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp:3199]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffecf4eb269 UE4Editor-UnrealEd.dll!FAssetDeleteModel::DoForceDelete() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\AssetDeleteModel.cpp:321]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffecf7d0dde UE4Editor-UnrealEd.dll!SDeleteAssetsDialog::ForceDelete() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Dialogs\SDeleteAssetsDialog.cpp:718]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffecf7c7e97 UE4Editor-UnrealEd.dll!TBaseSPMethodDelegateInstance<0,SDeleteAssetsDialog,0,FReply __cdecl(void),FDefaultDelegateUserPolicy>::Execute() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:290]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffed154a6fe UE4Editor-Slate.dll!SButton::ExecuteOnClick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Input\SButton.cpp:385]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffed156280e UE4Editor-Slate.dll!SButton::OnMouseButtonUp() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Input\SButton.cpp:304]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffed13b421e UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_cc5aea9e7377b04ce85c30c65ec3889b> >() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:378]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffed142e104 UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4831]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffed1417097 UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5372]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffed1409b62 UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5337]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007fff01cdc025 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2205]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007fff01cc92b7 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2698]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007fff01cde465 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:1881]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007fff01cc4410 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:905]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007fff336e8231 USER32.dll!UnknownFunction []
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007fff336e7cf1 USER32.dll!UnknownFunction []
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007fff01cdfb79 UE4Editor-ApplicationCore.dll!FWindowsApplication::PumpMessages() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2710]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffed143865a UE4Editor-Slate.dll!FSlateApplication::TickPlatform() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1477]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffed13d6b09 UE4Editor-Slate.dll!FSlateApplication::AddModalWindow() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1994]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffecf863e9e UE4Editor-UnrealEd.dll!UEditorEngine::EditorAddModalWindow() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\EditorEngine.cpp:4186]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffecfd98de2 UE4Editor-UnrealEd.dll!ObjectTools::DeleteObjects() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp:2492]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffecfd98184 UE4Editor-UnrealEd.dll!ObjectTools::DeleteAssets() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp:2282]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffeab882bac UE4Editor-ContentBrowserAssetDataSource.dll!ContentBrowserAssetData::DeleteAssetFileItems() [D:\Build\++UE4\Sync\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Source\ContentBrowserAssetDataSource\Private\ContentBrowserAssetDataCore.cpp:653]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffeab882faa UE4Editor-ContentBrowserAssetDataSource.dll!ContentBrowserAssetData::DeleteItems() [D:\Build\++UE4\Sync\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Source\ContentBrowserAssetDataSource\Private\ContentBrowserAssetDataCore.cpp:625]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffeab8723a7 UE4Editor-ContentBrowserAssetDataSource.dll!UContentBrowserAssetDataSource::BulkDeleteItems() [D:\Build\++UE4\Sync\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Source\ContentBrowserAssetDataSource\Private\ContentBrowserAssetDataSource.cpp:1126]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffec6bcf685 UE4Editor-ContentBrowser.dll!FAssetContextMenu::ExecuteDelete() [D:\Build\++UE4\Sync\Engine\Source\Editor\ContentBrowser\Private\AssetContextMenu.cpp:777]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffec6ce32fe UE4Editor-ContentBrowser.dll!SContentBrowser::HandleDeleteCommandExecute() [D:\Build\++UE4\Sync\Engine\Source\Editor\ContentBrowser\Private\SContentBrowser.cpp:2644]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffec6cc43c6 UE4Editor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SContentBrowser,0,void __cdecl(void),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:307]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffed1499657 UE4Editor-Slate.dll!FUICommandList::ConditionalProcessCommandBindings() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Commands\UICommandList.cpp:220]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffed14e6e4a UE4Editor-Slate.dll!FUICommandList::ProcessCommandBindings() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Commands\UICommandList.cpp:164]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffec6cff6f0 UE4Editor-ContentBrowser.dll!SContentBrowser::OnKeyDown() [D:\Build\++UE4\Sync\Engine\Source\Editor\ContentBrowser\Private\SContentBrowser.cpp:1260]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffed13b2112 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FKeyEvent,<lambda_f630e7f24dbef73857a69219e32f2d96> >() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:383]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffed1415087 UE4Editor-Slate.dll!FSlateApplication::ProcessKeyDownEvent() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4341]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ffed1408756 UE4Editor-Slate.dll!FSlateApplication::OnKeyDown() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4238]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007fff01cdbcc8 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2040]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007fff01cc92b7 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2698]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007fff01cde465 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:1881]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007fff01cc4410 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:905]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007fff336e8231 USER32.dll!UnknownFunction []
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007fff336e7cf1 USER32.dll!UnknownFunction []
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007fff01cdfcd4 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsPlatformApplicationMisc.cpp:125]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ff68ce07621 UE4Editor.exe!FEngineLoop::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:4850]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ff68ce20fcc UE4Editor.exe!GuardedMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:178]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ff68ce210ba UE4Editor.exe!GuardedMainWrapper() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:137]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ff68ce240dd UE4Editor.exe!LaunchWindowsStartup() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:273]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ff68ce35984 UE4Editor.exe!WinMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:320]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007ff68ce3853a UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\5\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007fff32e726ad KERNEL32.DLL!UnknownFunction []
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: [Callstack] 0x00007fff33dea9f8 ntdll.dll!UnknownFunction []
+[2023.06.30-01.54.32:199][947]LogOutputDevice: Error: 
